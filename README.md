@@ -1,1 +1,1 @@
-Usage: python3 factorize.py <number>
+Usage: python3 factorize.py <<number>>
